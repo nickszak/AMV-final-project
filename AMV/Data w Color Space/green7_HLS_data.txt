@@ -1,0 +1,7 @@
+Object's Number of Pixels = 46113
+Object's Center is at position (x,y): (392 , 294 )
+Object's Bounding Box is at (minX, minY) - (maxX, maxY): (0, 1) - (738, 587)
+Object's S statistics are (min, average, max, std): ( 0 , 68, 255, 40 )
+Object's L statistics are (min, average, max, std): ( 4 , 56, 249, 63 )
+Object's H statistics are (min, average, max, std): ( 0 , 50, 165, 8 )
+Object's DISTANCE statistics are (max, avg): ( 356, 87 )

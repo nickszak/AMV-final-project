@@ -1,0 +1,7 @@
+Object's Number of Pixels = 285115
+Object's Center is at position (x,y): (441 , 312 )
+Object's Bounding Box is at (minX, minY) - (maxX, maxY): (121, 50) - (771, 552)
+Object's RED statistics are (min, average, max, std): ( 13 , 149, 250, 31 )
+Object's GREEN statistics are (min, average, max, std): ( 12 , 140, 255, 35 )
+Object's BLUE statistics are (min, average, max, std): ( 0 , 117, 255, 43 )
+Object's DISTANCE statistics are (max, avg): ( 424, 235 )
