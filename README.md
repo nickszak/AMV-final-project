@@ -6,5 +6,5 @@ The final project for ENGR 4540 Applied Machine Vision. The project essentially 
 Need to clean folders so they only contain essential project files. Will create a list of essential files next update.
 
 #Requirements
-Visual Studio
+Visual Studio <br>
 OpenCV 
